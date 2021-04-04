@@ -1,0 +1,16 @@
+{
+  "name": "03-spies",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/fibonacci.test.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sinon": "^10.0.0"
+  }
+}
