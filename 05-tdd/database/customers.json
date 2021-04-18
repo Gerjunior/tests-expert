@@ -1,1 +1,5 @@
-[{"id":"4af4d6b0-6691-466e-80ab-4a77ed0f0ec8","name":"Erin Champlin","age":25},{"id":"be781091-c5a7-41b8-8f24-4a66f786ba4b","name":"Gwendolyn Gaylord","age":36},{"id":"39ef2798-83d5-4a4b-bcdb-adcc18bce1d5","name":"Luke Lehner","age":29}]
+[
+  { "id": "4af4d6b0-6691-466e-80ab-4a77ed0f0ec8", "name": "Erin Champlin", "age": 25 },
+  { "id": "be781091-c5a7-41b8-8f24-4a66f786ba4b", "name": "Gwendolyn Gaylord", "age": 36 },
+  { "id": "39ef2798-83d5-4a4b-bcdb-adcc18bce1d5", "name": "Luke Lehner", "age": 29 }
+]
